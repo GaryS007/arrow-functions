@@ -1,0 +1,1 @@
+// reduce() is used to reduce all elements of an array into a singular value.

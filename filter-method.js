@@ -1,0 +1,1 @@
+// filter() method is used to filter unwated elements out of an array.
